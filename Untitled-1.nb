@@ -1,0 +1,49 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1040,         39]
+NotebookOptionsPosition[       747,         26]
+NotebookOutlinePosition[      1090,         41]
+CellTagsIndexPosition[      1047,         38]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"NEKE", " ", "NALOGE"}]], "Input",
+ CellChangeTimes->{{3.7880906336359444`*^9, 
+  3.788090637003791*^9}},ExpressionUUID->"e61a5048-23d6-4322-bc0c-\
+f50c3a535b73"]
+},
+WindowSize->{759, 833},
+WindowMargins->{{Automatic, 452}, {49, Automatic}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 185, 4, 28, "Input",ExpressionUUID->"e61a5048-23d6-4322-bc0c-f50c3a535b73"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
